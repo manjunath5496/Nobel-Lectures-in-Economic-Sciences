@@ -43,13 +43,13 @@ Inside Economic Models </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(25).pdf" style="text-decoration:none;"> The Transformation of Macroeconomic Policy and Research </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(26).pdf" style="text-decoration:none;">The Theory and Practice of Market Design</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(27).pdf" style="text-decoration:none;"> Anatomy of the Thoracic Recurrent Laryngeal Nerves from a Surgeon's Perspective </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(28).pdf" style="text-decoration:none;">An Epidemiological Study to Assess Pulmonary Function Tests in a Cohort of Elderly Population</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(27).pdf" style="text-decoration:none;"> United States then, Europe now </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(28).pdf" style="text-decoration:none;">An Astonishing Sixty Years: The Legacy of Hiroshima</a></li>
   
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(29).pdf" style="text-decoration:none;">Conceptual Orientation: A Unique Phenomenon of the Equine Pregnancy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(29).pdf" style="text-decoration:none;">Allocation Games—the Deferred Acceptance Algorithm</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(30).pdf" style="text-decoration:none;">Cranial Intraosseous Meningioma</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(30).pdf" style="text-decoration:none;">Speculative Asset Prices </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(31).pdf" style="text-decoration:none;">Developmental Characteristics of Rat Testicular Tissue and the Impact of Chronic Noise Stress Exposure in the Prenatal and Postnatal Periods</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(32).pdf" style="text-decoration:none;">Do We have Enough Direct Evidence to Postulate that Abnormally Shaped Red Blood Cells Impair Microvascular Blood Flow in Critical Conditions?</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(33).pdf" style="text-decoration:none;">Effects of Mental Fatigue on Brain Activity and Cognitive Performance: A Magnetoencephalography Study</a></li>
