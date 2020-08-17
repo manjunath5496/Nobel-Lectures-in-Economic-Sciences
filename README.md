@@ -50,8 +50,8 @@ Inside Economic Models </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(29).pdf" style="text-decoration:none;">Allocation Games—the Deferred Acceptance Algorithm</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(30).pdf" style="text-decoration:none;">Speculative Asset Prices </a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(31).pdf" style="text-decoration:none;">Developmental Characteristics of Rat Testicular Tissue and the Impact of Chronic Noise Stress Exposure in the Prenatal and Postnatal Periods</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(32).pdf" style="text-decoration:none;">Do We have Enough Direct Evidence to Postulate that Abnormally Shaped Red Blood Cells Impair Microvascular Blood Flow in Critical Conditions?</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(33).pdf" style="text-decoration:none;">Effects of Mental Fatigue on Brain Activity and Cognitive Performance: A Magnetoencephalography Study</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(34).pdf" style="text-decoration:none;">Effects of Ventricular Septal Defect on Children's Growth Pattern in Slemani Pediatric Teaching Hospital</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(31).pdf" style="text-decoration:none;">Statistical Modeling of Monetary Policy and its Effects</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(32).pdf" style="text-decoration:none;">Constructivist and Ecological Rationality in Economics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(33).pdf" style="text-decoration:none;">Signaling in Retrospect and the Informational Structure of Markets</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures-in-Economic-Sciences/blob/master/noe(34).pdf" style="text-decoration:none;"> Information and the Change in the Paradigm in Economics</a></li>
 </ul>
